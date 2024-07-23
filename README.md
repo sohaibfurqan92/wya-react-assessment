@@ -46,3 +46,6 @@ Thank you for giving me the opportunity to partake in the technical assessment. 
 
  - Addition of a loading state (and appropriate visuals) during async API calls
  - Addition of a Not Found page for routes that do not exist
+ - Search should trigger on pressing the 'Enter' key
+
+ ** *NOTE: Though this is not something I would do in production, I've committed the .env file to Gihub for this project because I wanted to give you everything you would need to run the app* **
