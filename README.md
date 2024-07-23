@@ -49,3 +49,7 @@ Thank you for giving me the opportunity to partake in the technical assessment. 
  - Search should trigger on pressing the 'Enter' key
 
  ** *NOTE: Though this is not something I would do in production, I've committed the .env file to Gihub for this project because I wanted to give you everything you would need to run the app* **
+
+ I have also created a short walkthrough video in case you're interested: (Technical assessment walkthrough)[https://youtu.be/uorz_AsUSZA]
+
+ Thank you.
