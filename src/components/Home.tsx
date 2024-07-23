@@ -1,7 +1,5 @@
-
-
-import PokemonList from "@/components/PokemonList"
-import SearchInput from "@/components/SearchInput"
+import PokemonList from "@/components/PokemonList";
+import SearchInput from "@/components/SearchInput";
 
 const Home = () => {
   return (

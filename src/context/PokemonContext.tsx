@@ -1,7 +1,6 @@
-import { useState,useEffect, useContext } from "react";
-import { PokemonContextType, PokemonData } from "@/types";
+import { useState,useEffect, createContext } from "react";
 
-import { createContext } from "react";
+import { PokemonContextType, PokemonData } from "@/types";
 import { getPokemonList } from "@/services/pokeApi";
 
 const PokemonContext = createContext<PokemonContextType | null>(null);

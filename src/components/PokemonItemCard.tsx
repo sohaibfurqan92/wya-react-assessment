@@ -1,9 +1,9 @@
 
+import { Link } from 'react-router-dom';
 
-import {Card} from "@/components/ui/card"
+import {Card} from "@/components/ui/card";
+import { PokemonCardProps } from '@/types';
 
-import { PokemonCardProps } from '@/types'
-import { Link } from 'react-router-dom'
 
 const PokemonItemCard = ({pokemon} : PokemonCardProps) => {
   return (

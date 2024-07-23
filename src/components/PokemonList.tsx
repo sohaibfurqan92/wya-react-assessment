@@ -1,6 +1,8 @@
+import { usePokemon } from "@/context/PokemonContext";
+
 import PokemonItemCard from "./PokemonItemCard";
 import PaginationComponent from "./PaginationComponent";
-import { usePokemon } from "@/context/PokemonContext";
+
 
 const PokemonList = () => {
   const { pokemonData } = usePokemon();

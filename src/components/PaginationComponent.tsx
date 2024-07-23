@@ -1,5 +1,3 @@
-
-
 import {
     Pagination,
     PaginationContent,
@@ -7,7 +5,7 @@ import {
     PaginationLink,
     PaginationNext,
     PaginationPrevious,
-  } from "@/components/ui/pagination"
+  } from "@/components/ui/pagination";
   
 import { usePokemon } from '@/context/PokemonContext';
   
